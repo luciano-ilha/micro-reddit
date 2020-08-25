@@ -1,8 +1,7 @@
  # Micro-Reddit
-This project puts our knowledge of active record, models, and associations to the test. We built an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
 ## About <a name = "About"></a>
-Micro-reddit
+This project puts our knowledge of active record, models, and associations to the test. We built an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
 ## 🔧 Built with<a name = "with"></a>
 
